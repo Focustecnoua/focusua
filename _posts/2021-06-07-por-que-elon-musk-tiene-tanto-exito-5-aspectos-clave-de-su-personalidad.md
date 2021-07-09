@@ -1,9 +1,10 @@
 ---
-date: 2021-06-07 03:00:00 +0000
+date: 2021-06-07T03:00:00.000+00:00
 layout: post
-title: "¿Por qué Elon Musk tiene tanto éxito? 5 aspectos clave de su personalidad"
-subtitle: A continuación, le mostramos cómo incorporarlos a su propio viaje empresarial.
-description: Aspectos clave de Elon Musk para incorporarlos a su propio viaje empresarial.
+title: Почему Илон Маск так успешен? 5 ключевых аспектов вашей личности
+subtitle: Вот как включить их в свое собственное деловое путешествие.
+description: Ключевые аспекты Илона Маска, которые нужно включить в свое собственное
+  деловое путешествие.
 image: "/uploads/por-que-elon-musk-tiene-tanto-exito-5-aspectos-clave-de-su-personalidad-focus-tecno.jpg"
 optimized_image: "/uploads/min-por-que-elon-musk-tiene-tanto-exito-5-aspectos-clave-de-su-personalidad-focus-tecno.jpg"
 category: Emprendedores
@@ -11,53 +12,52 @@ tags:
 - 'PayPal '
 - 'SpaceX '
 - Tesla
-- éxito
 - Elon Musk
 author: FocusTecno
 
 ---
-Tenemos la posibilidad de recitar los logros de Elon Musk a medida que dormimos: cofundador del grande monetario PayPal ; fundador de Tesla , la compañía de automóviles eléctricos que al pie de la letra está cambiando el planeta; y fundador de SpaceX , la organización que aspira sacarnos de este planeta y colonizar otro. Además tenemos la posibilidad de recitar distraídamente una secuencia de adjetivos que lo describen: innovador, jefe, genio, visionario, futurista, emprendedor.
+Пока мы спим, мы рассказываем о достижениях Илона Маска: соучредитель крупной компании PayPal; основатель Tesla, компании по производству электромобилей, которая буквально меняет планету; и основатель SpaceX, организации, которая стремится увести нас с этой планеты и колонизировать другую. У нас также есть возможность рассеянно произнести последовательность прилагательных, описывающих его: новатор, начальник, гений, провидец, футурист, предприниматель.
 
-Sin embargo, ¿podemos explicar por qué Musk es como es? ¿Y tenemos la posibilidad de no solo cuantificar las cosas que hacen que Musk sea tan famoso, sino además empezar a incorporarlas en nuestras vidas? Esto podría ser un poco más complejo de hacer, empero pienso que es viable.
+Однако можем ли мы объяснить, почему Маск такой, какой он есть? И есть ли у нас возможность не только количественно оценить то, что делает Маска таким знаменитым, но и начать включать их в нашу жизнь? Это могло быть немного сложнее, но я думаю, что это возможно.
 
-He pasado parte importante de mi vida profesional haciendo un trabajo con artistas increíblemente elevados, y aun cuando todos me impresionan mucho con sus talentos, hábitos  y ética de trabajo , no alcanzan el grado de Musk. Ya hace cualquier tiempo, he estado evaluando a Musk y he esbozado 5 causas diferentes que sostienen por qué tiene tanto triunfo. Hablaré de ellos aquí.
+Я провел значительную часть своей профессиональной жизни, работая с невероятно выдающимися артистами, и, хотя все они производят на меня сильное впечатление своими талантами, привычками и трудовой этикой, они не дотягивают до уровня Маска. В течение некоторого времени я оценивал Маска и выделил 5 различных причин, по которым он так успешен. Я расскажу о них здесь.
 
-## "No" no significa nada
+## "Нет" ничего не значит
 
-Existe una anécdota que cuenta la primera mujer de Musk sobre él una vez que estaba en la universidad. Recibió un 98% en una de sus pruebas. Siendo un perfeccionista, se dirigió a su instructor y logró que cambiaran su puntuación al 100%. Ahora, varios de ustedes leerán esto y pensarán: ¿Por qué? ¿Qué sentido tiene hacer eso? Hubiera sido feliz con un 98% . Me siento de la misma forma. Empero este diminuto y fácil detalle es definitorio. 
+Первая жена Маска рассказывает о нем анекдот, когда он учился в колледже. Он получил 98% на одном из своих тестов. Будучи перфекционистом, он обратился к своему инструктору с просьбой изменить его оценку до 100%. Некоторые из вас прочитают это и подумают: почему? Какой в ​​этом смысл? Я был бы доволен на 98%. Я чувствую то же самое. Однако эта крохотная и легкая деталь является определяющей.
 
-Verá, el 2% que separaba a Musk de su puntuación de hoy y la perfección le sonaba como un "no" grande. Sin embargo no aceptaría un no por contestación. Inclusive si fuera por el 2%. Aquel 100% representó lo suficiente para él como para ponerse en una situación probablemente incómoda, hablando con su instructor, y tuvo la plática difícil de la que mucha gente se asusta. Finalmente, se salió con la suya. ¿Por qué? Pues "no" no significaba nada. 
+Видите ли, те 2%, которые отделяли Маска от его сегодняшней оценки и совершенства, звучали для него как большое «нет». Однако я бы не стал принимать ответ «нет». Даже если бы это было на 2%. Эти 100% представляли достаточно для него, чтобы поставить себя, вероятно, в неловкую ситуацию, разговаривая со своим инструктором, и у него был трудный разговор, который многих пугает. В конце концов, ему это сошло с рук. Почему? Что ж, «нет» ничего не значило.
 
-Si tenemos la posibilidad de superar el temor inicial de que nos digan "no" y comprendemos que no significa realmente nada, va a ser mejor para nosotros mismos. ¿Cuántas oportunidades se pierden por temor a preguntar?
+Если мы сможем преодолеть первоначальный страх того, что нам скажут «нет», и поймем, что на самом деле это ничего не значит, нам будет лучше. Сколько возможностей упущено из-за боязни спросить?
 
-## Un enfoque singular y sin parpadear
+## Особый фокус без мигания
 
-Musk ha perfeccionado el arte de quedar concentrado. Por cierto, hubo un rato a lo largo de la niñez de Tesla en el cual era primordial solucionar un problema específico, por lo cual Musk dormía abajo de su escritorio y trabajaba 75 horas a la semana hasta que aquel problema se resolviera. 
+Маск усовершенствовал искусство сохранять сосредоточенность. Кстати, в детстве Теслы было время, когда необходимо было решить конкретную проблему, поэтому Маск спал под своим столом и работал по 75 часов в неделю, пока эта проблема не была решена.
 
-No pensó en nada más. No se distrajo con otras labores tediosas. Todo lo cual se centró ha sido en la labor que poseía entre manos. Ahora mire a Tesla: es un grande en auge que está cambiando el planeta de la automoción. Ciertamente no podría ser de esta forma sin el enfoque inquebrantable de Musk en la vanguardia. 
+Больше он ни о чем не думал. Его не отвлекали другие утомительные дела. Все, на чем он сосредоточился, было сделано. А теперь посмотрите на Tesla - это большой бум, который меняет автомобильную планету. Конечно, этого не могло быть без неизменной ориентации Маска на передовые позиции.
 
-Este enfoque le permitió a Musk mejorar el arte de entrar en un "estado de flujo ", el estado de la mente en el cual una persona que hace alguna actividad está enteramente inmersa en una sensación de concentración llena de energía, colaboración total y goce en el proceso de la actividad. " Este estado de flujo unicamente se consigue una vez que el individuo puede hacer sin distracciones otras labores menos relevantes.
+Такой подход позволил Маску усовершенствовать искусство входа в «состояние потока», состояние ума, в котором человек, выполняющий какую-либо деятельность, полностью погружается в чувство энергетической концентрации, полного сотрудничества и получения удовольствия от процесса активности. "Такое состояние потока достигается только тогда, когда человек может выполнять другие, менее важные задачи, не отвлекаясь.
 
-Piense en su propia vida gremial y en la manera en que hace sus labores cotidianas. ¿Con qué frecuencia te distraes? ¿Con qué frecuencia algo a pequeña escala distrae su atención, haciéndolo menos beneficioso y menos efectivo? ¿Cómo puede planear su día para lograr terminar una labor y después pasar a la siguiente, de forma positiva, emocionada y resuelta?
+Подумайте о своей профсоюзной жизни и о том, как вы занимаетесь повседневными делами. Как часто вы отвлекаетесь? Как часто что-то мелкое отвлекает ваше внимание, делая его менее полезным и менее эффективным? Как вы можете спланировать свой день, чтобы выполнить одну работу, а затем перейти к следующей, позитивно, взволнованно и целенаправленно?
 
-## Ética laboral que se alimenta de pasión
+## Трудовая этика, питаемая страстью
 
-Otro componente que ayuda a Musk a entrar y quedar en el estado de flujo trata sobre la calidad del trabajo que está realizando. Musk es un caso de análisis perfecto para alguien cuya ética de trabajo está impulsada por su pasión. Ama lo cual hace, pues hace lo cual ama. Su pasión por su trabajo es tan profunda que alimenta los turnos nocturnos, motiva la semana gremial de 80 horas y, como hablamos en la parte anterior, reposar abajo de su escritorio. 
+Еще один компонент, который помогает Маску входить и выходить из потока, - это качество работы, которую он делает. Маск - идеальный кейс для анализа для тех, чья трудовая этика основана на страсти. Ему нравится то, что он делает, потому что он делает то, что любит. Его страсть к работе настолько глубока, что она питает ночные смены, мотивирует 80-часовую профсоюзную неделю и, как мы обсуждали в предыдущей части, отдыхает под его столом.
 
-La realidad es que si nos apasiona, o pudimos encontrar pasión, en el trabajo que estamos realizando, el trabajo deja de sentirse como un trabajo. Se convierte en una tarea o un juego, y estamos gozando de lo cual estamos realizando. Las semanas laborales de ochenta horas no se sienten como semanas laborales, pues nuestra pasión nos impulsa.
+Реальность такова, что если мы увлечены или смогли найти страсть в работе, которую мы делаем, работа перестает ощущаться как работа. Это становится задачей или игрой, и мы наслаждаемся тем, что делаем. Восемьдесят часовые рабочие недели не похожи на рабочие недели - нами движет страсть.
 
-## Pensando en grande pensando en pequeño
+## Мыслить масштабно, думать о малом
 
-Muchas de las gigantes ideas de Musk emergen de pequeñas cuestiones. ¿Cómo hacemos que el tránsito de California sea más conveniente? Un tren. Un tren eléctrico. Un tren eléctrico que atraviesa un gran túnel, excavado en la ladera de una montaña. La pregunta inicial es continuamente pequeña, después las respuestas crecen progresivamente. Después toma cada contestación a la pregunta e aspira desarrollarla de la mejor forma viable. El camino del almizcle. 
+Многие гигантские идеи Маска возникают из мелких проблем. Как сделать транзит по Калифорнии более удобным? Поезд. Электропоезд. Электропоезд, идущий по большому туннелю, врезался в склон горы. Первоначальный вопрос всегда небольшой, затем количество ответов постепенно увеличивается. Затем возьмите каждый ответ на вопрос и постарайтесь развить его наиболее возможным способом. Путь мускуса.
 
-De esta forma que busca una pequeña iniciativa . Da las respuestas obvias, después dale un giro a aquellas respuestas y persíguelas con tenacidad. Las enormes ideas constantemente emergen del pensamiento diminuto.
+Таким образом, вы ищете небольшую инициативу. Дайте очевидные ответы, а затем переверните их и упорно добивайтесь их. Из крошечной мысли постоянно рождаются огромные идеи.
 
-## Intensidad saludable e inquebrantable
+## Здоровая и непоколебимая интенсивность
 
-El almizcle es por supuesto profundo. Por cierto, todos los 4 aspectos que hemos descrito previamente solo los cultivan esos que poseen una determinada proporción de magnitud. No obstante, Musk lo hace de manera sana y constructiva. 
+Маск, конечно, глубок. Между прочим, все 4 аспекта, которые мы описали ранее, культивируются только теми, которые имеют определенную долю величины. Тем не менее, Маск делает это здоровым и конструктивным образом.
 
-He conocido a demasiadas personas que tratan de dar cierta magnitud a su trabajo y se agotan, se derrumban o van bastante lejos. Sacan a la población, se salen de control o terminan con un rendimiento inferior dramáticamente. 
+Я встречал слишком много людей, которые пытались преувеличить свою работу и выгорали, ломались или заходили слишком далеко. Они вытесняют население, выходят из-под контроля или в конечном итоге сильно отстают.
 
-Pienso que la función de Musk para conservar saludablemente su magnitud se debería a su mentalidad de estado de flujo, su pasión por su trabajo y su enfoque absoluto.
+Я думаю, что роль Маска в здоровом поддержании своего величия была обусловлена ​​его мышлением о состоянии потока, его страстью к своей работе и его абсолютной сосредоточенностью.
 
-**Fuente:** entrepreneur / Randy Garn, Inversor y Emprendedor
+Источник: предприниматель / Рэнди Гарн, инвестор и предприниматель.

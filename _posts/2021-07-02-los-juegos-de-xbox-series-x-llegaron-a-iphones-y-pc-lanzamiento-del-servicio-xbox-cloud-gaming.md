@@ -1,14 +1,13 @@
 ---
-date: 2021-07-02 03:00:00 +0000
+date: 2021-07-02T03:00:00.000+00:00
 layout: post
-title: Los juegos de Xbox Series X llegaron a iPhones y PC, Lanzamiento del servicio
-  Xbox Cloud Gaming
-subtitle: Los juegos se ejecutan en la nube en hardware exclusivo de Xbox Series X
-  Microsoft anunció hoy el lanzamiento de su servicio Xbox Cloud Gaming para dispositivos
-  Apple, así como para computadoras de escritorio y portátiles.
-description: |-
-  Los juegos se ejecutan en la nube en hardware exclusivo de Xbox Series X
-  Microsoft anunció hoy el lanzamiento de su servicio Xbox Cloud Gaming para dispositivos Apple, así como para computadoras de escritorio y portátiles.
+title: Игры Xbox Series X прибыли на iPhone и ПК, запуск службы Xbox Cloud Gaming
+subtitle: Игры запускаются в облаке на эксклюзивном оборудовании Xbox Series X. Сегодня
+  Microsoft объявила о запуске своего игрового сервиса Xbox Cloud Gaming для устройств
+  Apple, а также настольных и портативных компьютеров.
+description: Игры запускаются в облаке на эксклюзивном оборудовании Xbox Series X.
+  Сегодня Microsoft объявила о запуске своего игрового сервиса Xbox Cloud Gaming для
+  устройств Apple, а также настольных и портативных компьютеров.
 image: "/uploads/cloud-iphone-los-juegos-de-xbox-series-x-llegaron-a-iphones-y-pc-xbox-cloud-gaming.jpg"
 optimized_image: "/uploads/cloud-iphone-los-juegos-de-xbox-series-x-llegaron-a-iphones-y-pc-xbox-cloud-gaming.jpg"
 category: Apple
@@ -21,42 +20,42 @@ tags:
 author: FocusTecno
 
 ---
-El servicio está disponible en 22 países para los suscriptores de **Xbox** Game Pass Ultimate.
+Услуга доступна в 22 странах для подписчиков Xbox Game Pass Ultimate.
 
-Para acceder a **Xbox Cloud Gaming**, debe visitar **xbox.com/play** a través del navegador Microsoft Edge, Chrome o Safari en su **iPhone**, iPad, PC o Mac. Si ya está suscrito a Game Pass Ultimate y se encuentra en uno de los 22 países admitidos, puede comenzar a jugar 100 juegos diferentes de inmediato.
+Чтобы получить доступ к Xbox Cloud Gaming, вы должны посетить xbox.com/play через браузер Microsoft Edge, Chrome или Safari на вашем iPhone, iPad, ПК или Mac. Если вы уже являетесь подписчиком Game Pass Ultimate и находитесь на одном из 22 в поддерживаемых странах, вы можете сразу же начать играть в 100 различных игр.
 
-**Microsoft** dice que los juegos se ejecutan en la **nube** en hardware dedicado Xbox Series X. Los juegos se transmiten hasta 1080p a 60 cuadros por segundo. Podrás jugar con un controlador Bluetooth, como un controlador inalámbrico **Xbox** u otros modelos compatibles. En dispositivos móviles, también puede aprovechar los controles táctiles personalizados.
+Microsoft заявляет, что игры запускаются в облаке на выделенном оборудовании Xbox Series X. Игры транслируются до 1080p со скоростью 60 кадров в секунду. Вы сможете играть с контроллером Bluetooth, например беспроводным геймпадом Xbox или другими совместимыми моделями. На мобильных устройствах вы также можете воспользоваться настраиваемыми сенсорными элементами управления.
 
-**La lista de países admitidos** incluye actualmente Austria, Bélgica, Canadá, República Checa, Dinamarca, Finlandia, Francia, Alemania, Hungría, Irlanda, Italia, Corea, Países Bajos, Noruega, Polonia, Portugal, Eslovaquia, España, Suecia, Suiza, Reino Unido. y USA.
+В список поддерживаемых стран в настоящее время входят Австрия, Бельгия, Канада, Чешская Республика, Дания, Финляндия, Франция, Германия, Венгрия, Ирландия, Италия, Корея, Нидерланды, Норвегия, Польша, Португалия, Словакия, Испания, Швеция, Швейцария, Великобритания. . и пользуйся.
 
-## Disfruta más de xCloud en tu iPhone o iPad con estos accesorios
+## Наслаждайтесь еще больше xCloud на своем iPhone или iPad с этими аксессуарами
 
 ![iphone cloud](/uploads/xbox-controller-iphone-cloud.jpg)
 
-### Xbox Controller
+### Контроллер Xbox
 
-Si vas a jugar a **xCloud**, no hay mejor mando que el propio de **Microsoft** para sus consolas **Xbox**. Es más, varios te mencionarán de manera directa que no hay mejor mando en el mercado que este. Ya que es cierto que resulta bastante a gusto en el agarre y la disposición asimétrica de las palancas analógicas fue algo que constantemente gustó a varios usuarios ante otras posibilidades como la de **Sony**.
+Если вы собираетесь играть в xCloud, нет лучшего контроллера, чем собственный контроллер Microsoft для консолей Xbox. Более того, некоторые прямо скажут, что на рынке нет лучшего пульта ДУ, чем этот. Поскольку это правда, что он довольно удобен в захвате, а асимметричное расположение аналоговых джойстиков было чем-то, что постоянно нравилось нескольким пользователям перед другими возможностями, такими как Sony.
 
-Además, dichos mandos permanecen accesibles con diversas diseños, colores, etcétera., de esta forma que es bastante simple hallar aquel modelo que mejor encaje con tus propias preferencias particulares. Y aquello que no contamos la versión Elite que ya asciende de manera considerable el grado con algunas posibilidades de personalización para ajustarse a las preferencias de cada cliente.
+Кроме того, эти элементы управления остаются доступными с различным дизайном, цветом и т. Д., Поэтому довольно просто найти модель, которая наилучшим образом соответствует вашим конкретным предпочтениям. И то, что у нас нет, версия Elite, которая уже значительно выросла в степени с некоторыми возможностями настройки, чтобы приспособиться к предпочтениям каждого клиента.
 
-Sin lugar a dudas los mandos de **Microsoft** son un auténtico vicio. Pues no únicamente sirven para jugar, además son objetos de coleccionista. Solamente un detalle, si por cualquier fundamento te buscas el mando de las **Xbox One y One S**, asegúrate que son la versión V2 para que puedas enlazarlos a tu **iPhone** o iPad vía Bluetooth sin inconvenientes.
+Без сомнения, элементы управления Microsoft - настоящий порок. Что ж, они используются не только для игры, но и для коллекционирования. Просто деталь: если по какой-либо причине вы ищете управление Xbox One и One S, убедитесь, что это версия V2, чтобы вы могли без проблем связать их со своим iPhone или iPad через Bluetooth.
 
 ![iphone cloud](/uploads/sony-dualsense-iphone-cloud.jpg)
 
-### Sony Dualsense
+### Sony DualSense
 
-Las últimas variantes de **iOS y iPadOS** agregaron además soporte para **DualSense**, el último mando de Sony para su presente PS5. Es un mando que además está a un gran grado, por arriba te mencionarán sus admiradores. Y podría ser, empero realmente tanto este como el de **Microsoft** son tan buenos controles que solamente las preferencias individuales de cada uno acaban por declinar la báscula a un lado u otro.
+В последних вариантах iOS и iPadOS также добавлена ​​поддержка DualSense, последнего контроллера Sony для нынешней PS5. Это команда, которая в значительной степени выше, чем вас будут упоминать поклонники. И это могло быть, но на самом деле и этот, и Microsoft являются настолько хорошими элементами управления, что только индивидуальные предпочтения каждого в конечном итоге уменьшают масштаб в ту или иную сторону.
 
-Claro que ti tienes un mando de la generación anterior, el **DualShock** 4 de PS4, además tendrás la posibilidad de usarlo con solamente emparejarlo vía Bluetooth a tu dispositivo.
+Конечно, у вас есть контроллер PS4 DualShock 4 предыдущего поколения, у вас также будет возможность использовать его, просто подключив его через Bluetooth к своему устройству.
 
 ![iphone cloud](/uploads/8bitdo-sn30-pro-iphone-cloud.jpg)
 
 ### 8Bitdo SN30 Pro
 
-Al lado de los mandos de Xbox oficiales, una de las posibilidades más interesantes del mercado son los **Gamepad** de 8Bitdo. Aquí ya hemos comentado de ellos en bastante más de una situación y es habitual, pues a aquel diseño tan característico como este SN Pro se suma el llamativo de ser semejante al de **Super Nintendo** y que se puede utilizar en diferentes consolas, computadoras o dispositivos **Apple**.
+Наряду с официальными контроллерами Xbox одной из самых интересных возможностей на рынке являются геймпады 8Bitdo. Здесь мы уже комментировали их в гораздо более чем одной ситуации, и это обычное дело, потому что к такому характерному дизайну, как этот SN Pro, добавлен поразительный факт того, что он похож на дизайн Super Nintendo и что его можно использовать на разных консолях. , компьютеры или устройства Apple.
 
 ![iphone cloud](/uploads/razer-kishi-para-iphone-iphone-cloud.jpg)
 
-### Razer Kishi para iPhone
+### Razer Kishi для iPhone
 
-Si buscas algo más compacto todavía y que te posibilite utilizar el **iPhone** como si fuese una **Nintendo Switch**, el **Razer Kishi** podría ser una buena elección. Nosotros mismos analizamos la versión para Android, de la que puedes ver un vídeo posteriormente y nos gustó. Una forma interesante de mejorar la vivencia de juego allá donde vayas.
+Если вы ищете что-то еще более компактное и позволяющее использовать iPhone как Nintendo Switch, Razer Kishi может быть хорошим выбором. Мы сами проанализировали версию для Android, видео о которой вы можете посмотреть позже, и она нам понравилась. Интересный способ улучшить игровой процесс, куда бы вы ни отправились.

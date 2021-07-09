@@ -1,29 +1,30 @@
 ---
-date: 2021-07-04 03:00:00 +0000
+date: 2021-07-04T03:00:00.000+00:00
 layout: post
-title: Volkswagen se suma a Audi y anuncia que no desarrollará más motores de combustión
-subtitle: 'Volkswagen insiste en que su futuro está en los eléctricos, y este desplazamiento
-  lo deja todavía más claro '
-description: 'Volkswagen insiste en que su futuro está en los eléctricos, y este desplazamiento
-  lo deja todavía más claro '
+title: Volkswagen присоединяется к Audi и заявляет, что больше не будет разрабатывать
+  двигатели внутреннего сгорания
+subtitle: Volkswagen настаивает на том, что его будущее - за электрикой, и этот сдвиг
+  делает его еще яснее.
+description: Volkswagen настаивает на том, что его будущее - за электрикой, и этот
+  сдвиг делает его еще яснее.
 image: "/uploads/no-habra-nuevos-motores-tradicionales-de-combustion.jpg"
 optimized_image: "/uploads/no-habra-nuevos-motores-tradicionales-de-combustion.jpg"
 category: Autos
 tags:
-- combustión
-- eléctricos
-- Volkswagen
+- Сжигание
+- Электрик
+- Фольксваген
 author: FocusTecno
 
 ---
-Hace apenas unos días nos enteramos de la decisión de Audi de abandonar el desarrollo de nuevos motores de combustión interna, y este plan sigue el plan de varios otros fabricantes como Bentley, Aston Martin o Mini, que en las últimas semanas incluso finalmente fijaron una fecha. para la venta de bloques de combustión en su rango, coincidentemente están todos en 2030.
+Всего несколько дней назад мы узнали о решении Audi отказаться от разработки новых двигателей внутреннего сгорания, и этот план следует плану нескольких других производителей, таких как Bentley, Aston Martin или Mini, которые в последние недели даже наконец установили дату. по продаже блоков сгорания в его ассортименте, по стечению обстоятельств все они в 2030 году.
 
-Volkswagen ahora ha dado un paso al anunciar que está siguiendo los pasos de Audi para dejar de desarrollar motores de combustión interna de próxima generación y enfocarse aún más en su compromiso con la electricidad. Una elección comprensible si se considera que la arquitectura detrás de los motores de las dos marcas es esencialmente la misma, aunque aclara aún más las intenciones del Grupo Volkswagen para su futuro.
+Volkswagen сделал шаг, объявив, что он следует по стопам Audi, чтобы прекратить разработку двигателей внутреннего сгорания следующего поколения и еще больше сосредоточиться на своей приверженности к электричеству. Понятный выбор, учитывая, что архитектура двигателей двух брендов по сути одинакова, хотя это еще больше проясняет намерения Volkswagen Group на свое будущее.
 
-## No habrá nuevos motores tradicionales de combustión
+## Не будет новых традиционных двигателей внутреннего сгорания
 
-"Por el instante, no espero que se vuelva a arrojar una familia de motores del todo nueva", describía el CEO de VW, Ralf Brandstaetter, en declaraciones a Automotive News Europe, reconociendo que la marca de Wolfsburgo desea centrarse en lo eléctrico.
+«На данный момент я не ожидаю, что полностью новое семейство двигателей будет запущено снова», - сказал генеральный директор VW Ральф Брандштеттер в заявлении для Automotive News Europe, признав, что бренд Wolfsburg хочет сосредоточиться на электричестве.
 
-Esto nos deja con la afirmación de que hasta nuevo aviso la generación de hoy de motores va a ser la más actualizada que podamos descubrir en la marca con ejemplares como el EA888 2.0 litros turboalimentado de 4 cilindros online sosteniendo buena parte de su gama. Sea como sea sí se espera que reciba actualizaciones ocasionalmente para consumar con una normativa de emisiones cada vez más rigurosa, empero el núcleo seguirá siendo el mismo.
+Это оставляет нас с заявлением, что до дальнейшего уведомления сегодняшнее поколение двигателей будет самым современным, что мы можем обнаружить в бренде, с такими примерами, как 2,0-литровый 4-цилиндровый двигатель EA888 с турбонаддувом, который занимает хорошую часть своего ассортимента. Как бы то ни было, ожидается, что время от времени он будет получать обновления, чтобы соответствовать все более строгим нормам выбросов, но ядро ​​останется прежним.
 
-Sin embargo el motor de combustión seguirá vivo, en especial en otras marcas del conjunto como Porsche, que todavía está dispuesta a continuar manteniéndolos modernos con la utilización de combustibles sintéticos, o Lamborghini, que todavía mantendrá sus famosos motores V10 y V12, aun cuando ahora con ya ayuda de la hibridación enchufable.
+Тем не менее, двигатель внутреннего сгорания будет продолжать жить, особенно в других брендах группы, таких как Porsche, который по-прежнему готов поддерживать их современными за счет использования синтетического топлива, или Lamborghini, который по-прежнему будет поддерживать свои знаменитые двигатели V10 и V12. , хоть теперь и с помощью плагина гибридизации.

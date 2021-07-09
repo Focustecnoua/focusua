@@ -1,0 +1,85 @@
+<script charset="UTF-8" src="//web.webpushs.com/js/push/d73c77f2bab3c3e54518c71cd19ea2b5_1.js" async></script>
+
+
+<script src="https://cdn.websitepolicies.io/lib/cookieconsent/1.0.3/cookieconsent.min.js" defer></script><script>window.addEventListener("load",function(){window.wpcc.init({"colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#ff2424"},"button":{"background":"#dd1616","text":"#ffffff"}},"position":"bottom","padding":"none","margin":"none","transparency":"15","fontsize":"tiny","content":{"href":"https://www.websitepolicies.com/policies/view/PWNaYEUX","message":"Este sitio web utiliza cookies para garantizar que obtenga la mejor experiencia en nuestro sitio web. \n\n","link":"Aprende más","button":"Aceptar"}})});</script>
+
+<footer>
+    <p>
+      {% if site.facebook_username %}
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+          <svg><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+          <svg><use xlink:href="#icon-twitter"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.instagram_username %}
+        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+          <svg><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.linkedin_username %}
+        <a href="https://www.linkedin.com/company/{{ site.linkedin_username }}" title="LinkedIn">
+          <svg><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+      {% endif %}
+    </p>
+
+    {% include links.html %}
+
+    <p>
+      <span>FocusTecno ©</span> Todos los derechos reservados 2021 
+    </p>
+</footer>
+
+{% assign social_urls = '' %}
+{% if site.github_username %}
+    {% assign social_urls = social_urls | append: '"https://github.com/' | append: site.github_username | append: '",' %}
+{% endif %}
+{% if site.facebook_username %}
+    {% assign social_urls = social_urls | append: '"https://www.facebook.com/' | append: site.facebook_username | append: '",' %}
+{% endif %}
+{% if site.twitter_username %}
+    {% assign social_urls = social_urls | append: '"https://twitter.com/' | append: site.twitter_username | append: '",' %}
+{% endif %}
+{% if site.medium_username %}
+    {% assign social_urls = social_urls | append: '"https://medium.com/@' | append: site.medium_username | append: '",' %}
+{% endif %}
+{% if site.instagram_username %}
+    {% assign social_urls = social_urls | append: '"https://www.instagram.com/' | append: site.instagram_username | append: '",' %}
+{% endif %}
+{% if site.linkedin_username %}
+    {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ site.name }}",
+  "description": "{{ site.description }}",
+  "url": "{{ site.url }}{{site.baseurl}}/",
+  "logo": {
+      "@type": "ImageObject",
+      "url": "https://focustecno.com/assets/img/blog-image.png",
+      "width": "600",
+      "height": "200"
+  },
+  "sameAs": [
+    {{ social_urls | split: "," | join: "," }}
+  ]
+}
+</script>
+
+
+
+<!-- Include the website scripts -->
+<script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
+
+<!-- Include Google Analytics script -->
+{% include stats.html %}
+
+<!-- Include extra scripts -->
+{% include extra-js.html %}

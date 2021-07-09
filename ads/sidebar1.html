@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div id="box">
+    <a target="_blank" id="a"><img id="image" /></a>
+</div>
+
+<script type='text/javascript'> 
+var images = 
+[
+    imageUrlPair = { ImgSrc:"https://res.cloudinary.com/focustecno/image/upload/v1624444708/siteground-focustecno.jpg", Href:"https://bit.ly/SiteGround-Focus" },
+    imageUrlPair = { ImgSrc:"https://res.cloudinary.com/focustecno/image/upload/v1624446553/banners/roll_ds6bj1.jpg", Href:"https://bit.ly/Rollbit-focus" },
+    imageUrlPair = { ImgSrc:"https://res.cloudinary.com/focustecno/image/upload/v1624448335/banners/fiver_uvqhpd.jpg", Href:"https://bit.ly/Fiver-focus" },
+    imageUrlPair = { ImgSrc:"https://res.cloudinary.com/focustecno/image/upload/v1624716185/banners/nord_vule6a.jpg", Href:"https://bit.ly/nordvpn-focus" },
+]
+
+function randImg() {
+var size = images.length;
+var x = Math.floor(size * Math.random());
+var randomItem = images[x];
+document.getElementById('image').src = randomItem.ImgSrc;
+document.getElementById('a').href = randomItem.Href;
+}
+
+randImg();
+</script>
+</body>
+</html>
+
+

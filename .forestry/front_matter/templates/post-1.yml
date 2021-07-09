@@ -1,0 +1,41 @@
+---
+label: post 1
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: file
+  name: optimized_image
+  label: optimized_image
+- type: text
+  name: category
+  label: category
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
+pages:
+- _posts/2021-06-07-jeff-bezos-ira-al-espacio-el-proximo-mes.md
+- _posts/2021-06-09-chile-inaugura-primera-planta-termosolar-de-latinoamerica.md
+- _posts/el-futuro-de-las-protesis-en-la-medicina.md
+- _posts/los-juegos-de-xbox-series-x-llegaron-a-iphones-y-pc-lanzamiento-del-servicio-xbox-cloud-gaming.md
+- pages/comment-policy.md
+- politicas-de-privacidad.md

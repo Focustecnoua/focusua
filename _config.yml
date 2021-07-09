@@ -1,0 +1,90 @@
+name: FocusTecno
+title: FocusTecno | Las últimas noticias sobre tecnología
+description: >-
+  FocusTecno es una red de contenidos en crecimiento dedicado al mundo de la
+  tecnología, la ciencia y la innovación.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+  - netlifys
+show_hero: true
+menu:
+  - title: Inicio
+    url: /
+  - title: Apple
+    url: /category/apple
+  - title: Apps
+    url: /category/apps
+  - title: Gaming
+    url: /category/gaming/
+  - title: Energías
+    url: /category/energías/
+  - title: Ciencia
+    url: /category/ciencia/
+  - title: Smartphone
+    url: /category/smartphone/
+  - title: Inversiones
+    url: /category/inversiones/
+email: contact@focustecno.com
+disqus_username: focustecno
+formspree_form_id: formspree_form_id
+github_username: github_username
+facebook_username: focustecno.ok
+twitter_username: focus_tecno
+instagram_username: focustecno.ok
+linkedin_username: focus-tecno
+medium_username: medium_username
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+baseurl: ''
+url: ''
+google_analytics: G-M802EQZ8GG
+language: es
+categories_folder: category
+sent_message_url: /contact/message-sent/
+markdown: kramdown
+highlighter: rouge
+permalink: '/:title/'
+collections:
+  authors:
+    output: true
+paginate_path: '/page/:num/'
+show_get_theme_btn: true
+use_logo: true
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: '--page-break--'
+  permalink: '/:num/'
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+exclude:
+  - package.json
+  - package-lock.json
+  - src
+  - node_modules
+  - initpost.sh
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - README.md
+version: v3.1.1

@@ -1,39 +1,39 @@
 ---
 date: 2021-06-06T03:00:00.000+00:00
 layout: post
-title: TikTok actualizó silenciosamente su política de privacidad para recopilar datos
-  biométricos de los usuarios
-subtitle: 'El exitosa servicio de intercambio de clip de videos de formato corto TikTok
-  comprobó silenciosamente su política de privacidad en los EE. UU., Lo cual le permitió
-  recopilar automáticamente información biométrica, como huellas faciales y de voz
-  del contenido que sus usuarios publican en la plataforma. '
-description: 'TikTok comprobó silenciosamente su política de privacidad en los EE.
-  UU., Lo cual le permitió recopilar automáticamente información biométrica, '
+title: TikTok незаметно обновил свою политику конфиденциальности, чтобы собирать биометрические
+  данные от пользователей
+subtitle: Успешный сервис обмена короткими видеоклипами TikTok незаметно проверил
+  свою политику конфиденциальности в США, что позволило ему автоматически собирать
+  биометрическую информацию, такую ​​как голос и отпечатки лиц, из контента, который
+  пользователи публикуют на платформе.
+description: TikTok незаметно проверил свою политику конфиденциальности в США, позволяя
+  автоматически собирать биометрическую информацию.
 image: "/uploads/tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg"
 optimized_image: "/uploads/min-tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg"
 category:
 - Apps
 tags:
-- " datos biométricos"
-- Privacidad
 - TikTok
+- конфиденциальность
+- биометрические данные
 author: FocusTecno
 
 ---
-El famosa servicio de intercambios de clip de videos de formato corto **TikTok** comprobó silenciosamente su **política de privacidad** en los **EE. UU**., Lo cual le posibilita recopilar automáticamente i**nformación biométrica**, como **huellas faciales** y de **voz del contenido** que sus usuarios publican en la plataforma.
+Знаменитый сервис обмена короткими видеоклипами TikTok незаметно проверил свою политику конфиденциальности в США, которая позволяет ему автоматически собирать биометрическую информацию, такую ​​как голос и отпечатки лица, из контента, который пользователи публикуют на платформе.
 
-El cambio de política, detectado por primera ocasión por **TechCrunch**, entró en vigor el 2 de junio. Los usuarios de **TikTok** que residen en el **Espacio Económico Europeo (EEE)**, el Reino Unificado, Suiza y otras geografías (excepto India) donde opera el servicio permanecen exentos de los cambios. .
+Изменение политики, впервые обнаруженное TechCrunch, вступило в силу 2 июня. Пользователи TikTok, проживающие в Европейской экономической зоне (ЕЭЗ), Соединенном Королевстве, Швейцарии и других регионах (кроме Индии), где работает сервис, остаются свободными от изменений.
 
-> "Tenemos la posibilidad de recopilar identificadores biométricos e información biométrica según se define en las leyes de EE. UU., Como por ejemplo huellas faciales y de voz, de su Contenido de cliente. Una vez que de esta forma lo exija la ley, le solicitaremos los roles necesarios anterior a esa colección", el mencionó la compañía en una parte recientemente introducida llamada "Información de imagen y audio".
+> «У нас есть возможность собирать биометрические идентификаторы и биометрическую информацию в соответствии с законодательством США, такую ​​как отпечатки голоса и лица, из вашего Пользовательского контента. Если это требуется по закону, мы будем запрашивать необходимые роли до этого сбора», - компания упомянута в недавно представленной части под названием «Информация об изображениях и аудио».
 
-Además de esto, la **política de privacidad** de la organización, muestra que puede **recopilar información** acerca de "la naturaleza del **audio y el escrito** de los vocablos pronunciadas en su Contenido de cliente" para "habilitar efectos de clip de video especiales, para moderar el contenido, para **categorización demográfica**, para contenido y sugerencias de anuncios, y para otras operaciones de identificación no personal ".
+В дополнение к этому, политика конфиденциальности организации показывает, что она может собирать информацию о «характере звука и написании слов, произнесенных в ее Контенте клиента», чтобы «включить специальные эффекты видеоклипа, модерировать контент, для демографической категоризации. , для содержания объявлений и предложений, а также для других операций, не позволяющих установить личность ".
 
 ![](/uploads/2-tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg)
 
-Además de no conceptualizar precisamente la naturaleza precisa de la colección de datos biométricos u dar una razón convincente de por qué esta colección de datos es elemental antes que nada, el lenguaje vagamente escrito podría permitir que TikTok acumule datos tan confidenciales sin el consentimiento explícito de los usuarios.
+В дополнение к неспособности точно осмыслить точный характер сбора биометрических данных или дать убедительную причину, почему этот сбор данных является элементарным прежде всего, свободно написанный язык может позволить TikTok накапливать такие конфиденциальные данные без явного согласия пользователей. пользователей.
 
-Ya que solo un puñado de estados en los EE. UU. (California, Illinois, Nueva York, Texas y Washington) poseen leyes que restringen a las organizaciones la colección de estos datos, el tamaño podría significar que **TikTok** no posee que solicitar permiso a sus usuarios en otros estados, como indicó TechCrunch. En otros términos, los usuarios otorgan su consentimiento para que se recopilen sus datos biométricos sencillamente al admitir sus términos de servicio.
+Поскольку только несколько штатов в США (Калифорния, Иллинойс, Нью-Йорк, Техас и Вашингтон) имеют законы, запрещающие организациям собирать эти данные, размер может означать, что TikTok не нужно спрашивать разрешения у своих пользователей в других штатах. , как указывает TechCrunch. Другими словами, пользователи соглашаются на сбор своих биометрических данных, просто соглашаясь с их условиями обслуживания.
 
- Las revisiones a su política de privacidad se generan meses luego de que **TikTok** acordó costear $ 92 millones para solucionar una demanda colectiva que alegaba que la aplicación violó la Ley de Privacidad de Información Biométrica de Illinois (BIPA) al capturar clandestinamente datos biométricos y particulares de usuarios en los EE. UU. Para segmentar anuncios sin consumar con los requisitos de consentimiento comunicado de la ley estatal.
+Изменения в его политике конфиденциальности были внесены через несколько месяцев после того, как TikTok согласился заплатить 92 миллиона долларов для урегулирования коллективного иска, в котором утверждалось, что приложение нарушило Закон Иллинойса о конфиденциальности биометрической информации (BIPA), тайно собирая личные и биометрические данные пользователей в США. объявления без использования при условии согласия с требованиями закона штата.
 
-Como parte del consenso, **TikTok** cumplió para evadir recopilar o guardar información biométrica, identificadores biométricos, geolocalización o datos de GPS, a menos que se indique expresamente en su política de privacidad. Observado a partir de esta visión, es viable que los cambios sean el resultado del consenso de demanda.
+В рамках консенсуса TikTok старался избегать сбора и хранения биометрической информации, биометрических идентификаторов, геолокации или данных GPS, если иное прямо не указано в его политике конфиденциальности. Исходя из этого видения, вполне возможно, что изменения являются результатом консенсуса спроса.

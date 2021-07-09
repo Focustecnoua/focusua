@@ -1,51 +1,51 @@
 ---
-date: 2021-06-29 03:00:00 +0000
+date: 2021-06-29T03:00:00.000+00:00
 layout: post
-title: Windcatcher ¿El barco más ecológico no tripulado que podría existir?
-subtitle: Es una realidad que el cambio climático, no sólo existe sino que ya nos
-  acecha. Por otro lado, los avances tecnológicos y los enfoques hacia el medio ambiente
-  crecen a pasos, afortunadamente, gigantes.
-description: Es una realidad que el cambio climático, no sólo existe sino que ya nos
-  acecha. Por otro lado, los avances tecnológicos y los enfoques hacia el medio ambiente
-  crecen a pasos, afortunadamente, gigantes.
+title: Windcatcher Самая зеленая беспилотная лодка, которая могла существовать?
+subtitle: Это реальность, что изменение климата не только существует, но и уже преследует
+  нас. С другой стороны, технический прогресс и подходы к окружающей среде растут
+  не по дням, а по часам, к счастью, гигантскими темпами.
+description: Это реальность, что изменение климата не только существует, но и уже
+  преследует нас. С другой стороны, технический прогресс и подходы к окружающей среде
+  растут не по дням, а по часам, к счастью, гигантскими темпами.
 image: "/uploads/windcatcher-el-barco-mas-ecologico-no-tripulado-que-podria-existir.webp"
 optimized_image: "/uploads/windcatcher-el-barco-mas-ecologico-no-tripulado-que-podria-existir.webp"
 category: Energías
 tags:
-- Noruega
-- generador eólico
+- " Норвегия"
+- " генератор ветра "
 - Windcatcher
 author: Marco Sottile
 
 ---
-Uno de estos avances que podríamos ver en los próximos años es uno de los, tal vez, más impactantes vistos: el **Windcatcher**. Un inmenso barco en alta mar que **podría establecerse para cambiar radicalmente la generación de energía eólica**, dice uno de sus inventores.
+Одно из этих достижений, которое мы можем увидеть в ближайшие годы, является одним из, пожалуй, самых впечатляющих: Windcatcher. По словам одного из изобретателей, огромное морское судно, которое может радикально изменить производство ветровой энергии.
 
-Y cuando dicen inmenso, hablan de **más grande que la torre Eiffel o 4 veces la altura del obelisco de Buenos Aires**. El **Windcatcher**, está planeado para ser de más de 300 metros de alto.
+И когда они говорят «огромный», они имеют в виду больше, чем Эйфелева башня или в 4 раза больше обелиска в Буэнос-Айресе. Планируемая высота Windcatcher - более 300 метров.
 
-No conformes con la actual tecnología de **energía eólica**, los tan conocidos **molinos de viento**, cuya eficiencia en tierra está comprobada, estos i**nnovadores noruegos** se lanzaron a **idear nuevas opciones** para saber si realmente era la mejor forma y más eficiente vía para **generar energía** de esta fuente inagotable que es el viento.
+Эти норвежские новаторы, не соблюдая современные технологии ветроэнергетики, хорошо известные ветряные мельницы, эффективность которых на суше доказана, решили разработать новые варианты, чтобы выяснить, действительно ли это лучший и наиболее эффективный способ получения энергии из этого неиссякаемого источника. это ветер.
 
-## Pero, ¿cómo cambiar algo que está funcionando bien? A eso se le llama innovación.
+## Но как изменить то, что хорошо работает? Это называется нововведением.
 
-Basándose en las construcciones de las p**lataformas petroleras en los océanos**, decidieron construir una superficie flotante similar para sus **diseños de turbinas**.
+Основываясь на конструкции нефтяных вышек в океанах, они решили построить аналогичную плавучую поверхность для своих конструкций турбин.
 
-**El único inconveniente** con este proyecto, y con casi cualquier proyecto de **energías renovables**, es **la inversión**. La producción de **energía solar** es discontinua a lo largo del día y reducida en los meses invernales y las **hidroeléctricas** alteran los ecosistemas locales.
+Единственный недостаток этого проекта, как и почти любого проекта в области возобновляемых источников энергии, - это инвестиции. Производство солнечной энергии прекращается в течение дня и сокращается в зимние месяцы, а гидроэлектростанции изменяют местные экосистемы.
 
-Incluso los convencionales molinos de viento **no son económicos**, requieren un **estudio demográfico** y por su parte, la construcción y mantenimiento de granjas eólicas en superficie acuática, además de costosa, resulta desafiante. En este último punto, **Windcatcher** lleva la ventaja.
+Даже обычные ветряные мельницы неэкономичны, они требуют демографического исследования, и, со своей стороны, строительство и обслуживание ветряных электростанций на водной поверхности, помимо того, что они дороги, является сложной задачей. В этом последнем пункте преимущество имеет Windcatcher.
 
 ![](/uploads/windcatchers-el-barco-mas-ecologico-no-tripulado-que-podria-existir.webp)
 
-Para realizar operaciones en las **granjas acuáticas de molinos de viento** se necesitan buques equipados con grúas, para así poder solucionar, de a un molino por vez, los **posibles problemas**, lo que aumenta mucho su valor de mantenimiento.
+Суда, оборудованные подъемными кранами, необходимы для работы на водных ветряных мельницах, чтобы решать по одной мельнице потенциальные проблемы, что значительно увеличивает стоимость ее обслуживания.
 
-Los noruegos en cambio, planean instalar en su **mega estructura**, donde se encontrarán **todas las turbinas a la vez,** ascensores, llegando con mayor facilidad a todos ellos y **abaratando los costos de reparación.**
+С другой стороны, норвежцы планируют установить лифты в своей мега-конструкции, где все турбины будут находиться одновременно, что упростит доступ к ним и снизит затраты на ремонт.
 
-Basándose en que para los molinos, **el costo y peso aumenta** con el radio^3 pero la energía producida con el radio^2, llegaron a su innovadora forma donde, no sólo agruparon las turbinas en una sola estructura, sino que **las volvieron más pequeña**s. Los científicos cuentan que al hacerlas de menor tamaño la producción energética no es menor ya que al tener menor superficie de contacto**, los efectos de resistencia son menores.**
+Основываясь на том факте, что стоимость и вес мельниц увеличиваются с увеличением радиуса ^ 3, но энергия, производимая с радиусом ^ 2, они пришли к своей инновационной форме, в которой они не только сгруппировали турбины в единую структуру, но и они сделали их меньше. Ученые говорят, что, делая их меньше, вырабатывается не меньше энергии, поскольку при меньшей контактной поверхности ** эффекты сопротивления меньше **.
 
-Por otro lado, los remolinos que genera en el viento una turbina, produce que **la turbina contigua pueda sacar más provecho de la energía cinética** que carga el viento, en un fenómeno de volver más turbulento al parcial flujo **laminar del fluido gaseoso**, volviendo así **más eficiente** la transferencia de **energía** desde el viento a la turbina.
+С другой стороны, водовороты, создаваемые турбиной на ветру, заставляют соседнюю турбину использовать больше преимуществ кинетической энергии, нагруженной ветром, в результате чего частичный ламинарный поток газообразной жидкости становится более турбулентным, таким образом, поворачиваясь. более эффективная передача энергии от ветра к турбине.
 
-Por si fuera poca **la preocupación por el medio ambiente**, planean estudiar el comportamiento de las aves con el objetivo de **evitar lastimar a los plumíferos o alterarles su ecosistema.** Premio Nobel de ciencia y de la paz para los noruegos 🙋‍♂️.
+Как будто заботы об окружающей среде было недостаточно, они планируют изучить поведение птиц, чтобы не повредить перья или изменить их экосистему. Нобелевская премия по науке и миру для норвежцев 🙋‍♂️.
 
-Aunque los **planos y diseños** son impresionantes, aún faltan **muchos ensayos**, pruebas, escalados, resultados y análisis para poder ver estas inmensas construcciones en las costas. Aún así, **están confiados** y afirman que si todo va según lo planeado **el Windcatcher debería estar listo para la construcción en algún momento del próximo año**, y podríamos ver la estructura colosal en el océano para **2023 o 2024**.
+Хотя планы и проекты впечатляют, предстоит еще много испытаний, испытаний, масштабирования, результатов и анализа, чтобы можно было увидеть эти огромные сооружения на побережье. Тем не менее, они уверены и заявляют, что, если все пойдет по плану, Windcatcher должен быть готов к строительству где-то в следующем году, и мы сможем увидеть колоссальную структуру в океане к 2023 или 2024 году.
 
-En conclusión, de ser un éxito este modelo de muchas turbinas pequeñas agrupadas, quien dice que no se incorporará y aplicará a **nuevas estructuras o terrenos** como las **ciudades** donde resulta imposible y casi anecdótico construir un molino de viento en algún techo de un edificio. En un futuro tal vez veamos esta tecnología aplicada en los **carteles publicitarios de la ruta o en tantos que inundan la vista en las ciudades capitales**. ¿Ustedes qué opinan?
+В заключение, если эта модель множества небольших сгруппированных турбин будет успешной, кто говорит, что она не будет встроена и применена к новым строениям или землям, таким как города, где невозможно и почти анекдотично построить ветряную мельницу на крыше здания . В будущем мы можем увидеть, как эта технология будет применяться на рекламных щитах вдоль маршрута или на многих из них, которые затопляют вид в столицах. Как вы думаете?
 
 ![](/uploads/pexels-negative-space-34639.jpg)

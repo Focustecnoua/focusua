@@ -1,41 +1,41 @@
 ---
-date: 2021-06-30 03:00:00 +0000
+date: 2021-06-30T03:00:00.000+00:00
 layout: post
-title: "¿Se puede predecir el riesgo a desarrollar demencia? Aquí podrás calcularlo"
-subtitle: Descubrí las pasibilidades que tienes de padecer demencia en un futuro y
-  prevenirla minimizando los factores de riesgo.
-description: Descubrí las pasibilidades que tienes de padecer demencia en un futuro
-  y prevenirla minimizando los factores de riesgo.
+title: Можно ли предсказать риск развития деменции? Здесь вы можете рассчитать это
+subtitle: Вы можете узнать, какие у вас есть возможности страдать от деменции в будущем,
+  и предотвратить ее, сведя к минимуму факторы риска.
+description: Вы можете узнать, какие у вас есть возможности страдать от деменции в
+  будущем, и предотвратить ее, сведя к минимуму факторы риска.
 image: "/uploads/se-puede-predecir-el-riesgo-a-desarrollar-demencia-aqui-podras-calcularlo.webp"
 optimized_image: "/uploads/se-puede-predecir-el-riesgo-a-desarrollar-demencia-aqui-podras-calcularlo.webp"
 category: Salud
 tags:
-- calculadora
-- demencia
-- medicina
+- медицина
+- деменция
+- калькулятор
 author: Marco Sottile
 
 ---
-Gracias al avance de la medicina y la genética **la expectativa de vida se ha casi duplicado en todo el mundo** respecto al siglo pasado.
+Благодаря развитию медицины и генетики продолжительность жизни во всем мире почти удвоилась по сравнению с прошлым веком.
 
-Un estudio del 2016, muestra por ejemplo a **España con una esperanza de vida que ronda los 82 años**, mientras, casi un siglo atrás en 1910 estaba cerca de los **40**. En resumen, estamos viviendo casi **dos veces** la vida de nuestros bisabuelos.
+Например, исследование 2016 года показывает, что в Испании ожидаемая продолжительность жизни составляет около 82 лет, тогда как почти столетие назад, в 1910 году, она была близка к 40. Таким образом, мы живем почти вдвое дольше, чем наши прадеды и прадеды.
 
-![](/uploads/los-paises-con-mayor-y-menor-esperanza-de-vida.webp)Desgraciadamente, esta extensión en nuestra póliza de vida, viene de la mano con un **mayor tiempo de deterioro de nuestro cuerpo y los órganos** que lo acompañan, acarreando un aumento en la posibilidad de **desarrollar distintas enfermedades**.
+![](/uploads/los-paises-con-mayor-y-menor-esperanza-de-vida.webp)К сожалению, это продление нашей жизненной политики идет рука об руку с более длительным ухудшением состояния нашего тела и органов, которые его сопровождают, что приводит к увеличению вероятности развития различных заболеваний.
 
-Cómo anticipé antes, **la medicina ha avanzado** con nosotros, erradicando y confrontando enfermedades que, sin volver mucho en el tiempo, **serían mortales.** Ejemplos tales como la invención y el desarrollo masivo de **las vacunas,** el estudio de la alimentación, el descubrimiento de las **enfermedades genéticas** y cómo detectarlas a tiempo.
+Как я и ожидал раньше, медицина продвигалась вместе с нами, искореняя и борясь с болезнями, которые, если не возвращаться назад во времени, были бы смертельными. Примеры, такие как изобретение и массовая разработка вакцин, изучение диеты, открытие генетических заболеваний и способы их своевременного обнаружения.
 
-Aún así, existen e**nfermedades esquivas y complejas** que tras años de estudio y avances, **no tienen cura por el momento**. Una de ellas es la **demencia**, quizás la mayor preocupación para las **personas mayores**, un síndrome que afecta a **10 millones de personas** nuevas en todo el mundo **cada año.** A pesar de los increíbles avances en la investigación, los científicos aún **no pueden ralentizar su aparición**.
+Тем не менее, существуют неуловимые и сложные заболевания, от которых после многих лет изучения и прогресса в настоящее время нет лечения. Одним из них является слабоумие, возможно, самая большая проблема для пожилых людей, синдром, которым ежегодно страдают 10 миллионов новых людей во всем мире. Несмотря на невероятные успехи в исследованиях, ученые все еще не могут замедлить его появление.
 
 ![](/uploads/calculadora-para-prevenir-la-demencia.webp)
 
-Lo que sí han obtenido de los estudios es que es **una enfermedad prevenible**, de hecho, **un tercio** de todos **los casos de demencia se pueden prevenir minimizando los factores de riesgo**.
+В результате исследований они пришли к выводу, что это предотвратимое заболевание, фактически, треть всех случаев деменции можно предотвратить, сведя к минимуму факторы риска.
 
-Gracias a años de registros de casos que permitieron tener en cuenta los **comportamientos típicos** de la enfermedad y los rasgos preexistentes, los científicos del **Hospital de Ottawa** han podido **crear una calculadora en línea** que puede dar una **probabilidad de desarrollar demencia** a personas mayores de 55 años. La calculadora fue desarrollada y validada como parte de un gran estudio, que se publicó en el **Journal of Epidemiology and Community Health.**
+Благодаря многолетним историям болезни, которые позволили учесть типичное болезненное поведение и уже существующие черты характера, ученые больницы Оттавы смогли создать онлайн-калькулятор, который может дать людям старше 55 лет вероятность развития деменции. Калькулятор был разработан и утвержден в рамках большого исследования, опубликованного в Журнале эпидемиологии и общественного здравоохранения.
 
-Aquí les dejamos el link [https://www.projectbiglife.ca/dementia](https://www.projectbiglife.ca/dementia "https://www.projectbiglife.ca/dementia")
+Вот ссылка [https://www.projectbiglife.ca/dementia](https://www.projectbiglife.ca/dementia "https://www.projectbiglife.ca/dementia")
 
-Los datos se obtuvieron de **50.000 habitantes** de Ontario de **55 años** o más, vinculados a **datos administrativos de atención médica** para determinar el desarrollo de la demencia **por cinco años.** Utilizando variables asociadas con el desarrollo de la demencia, se desarrollaron **modelos de predicción** de riesgo para **hombres y mujeres por separado**. Los factores incluidos en los modelos son la **edad** y otras características **sociodemográficas**, los **hábitos de vida**, la **salud general** y el **funcionamiento físico**. Luego, el modelo resultante se probó en un conjunto separado de datos en **25,000 habitantes** de Ontario de **55 años** o más para averiguar qué tan bien predecía la **incidencia de demencia**. Descubrieron que el modelo **funcionó bien en general** y en una amplia gama de subgrupos de población. Dentro de esta muestra se encontraron **8.448 casos de demencia.**
+Данные были собраны у 50 000 жителей Онтарио в возрасте 55 лет и старше и связаны с административными данными здравоохранения для определения развития деменции в течение пяти лет. С использованием переменных, связанных с развитием деменции, модели прогнозирования риска были разработаны отдельно для мужчин и женщин. Факторами, включенными в модели, являются возраст и другие социально-демографические характеристики, образ жизни, общее состояние здоровья и физическое состояние. Затем полученная модель была протестирована на отдельном наборе данных на 25000 жителей Онтарио в возрасте 55 лет и старше, чтобы выяснить, насколько хорошо она предсказывает заболеваемость деменцией. Они обнаружили, что модель хорошо работает в целом и в широком диапазоне подгрупп населения. В этой выборке было обнаружено 8 448 случаев деменции.
 
-Como suele suceder con todos los estudios, l**a calculadora tiene limitaciones.** Los investigadores expresaron su preocupación en que el modelo pueda estar **"sobreajustado",** es decir, podría estar **demasiado ajustado a una muestra** y es posible que **no pueda adaptarse a nuevos datos**. Por otro lado hay otros factores de riesgo **fuertemente correlacionados** con la **demencia** que no estaban incluidos en ese entonces.
+Как и все исследования, у калькулятора есть ограничения. Исследователи выразили обеспокоенность тем, что модель может быть «переоборудована», то есть она может быть слишком тесной для выборки и не сможет адаптироваться к новым данным. С другой стороны, есть другие факторы риска, сильно коррелированные с деменцией, которые в то время не учитывались.
 
-Como tal, **el resultado de la calculadora no es seguro**, ni debería causarle mucho pánico si el resultado es **desfavorable**. En su lugar, utilícelo como una un **llamado a la acción** para **adaptar su estilo de vida** y comportamiento de la **mejor manera posible**, para garantizar la mejor oportunidad de **mantenerse saludable en el futuro**.
+Таким образом, результат калькулятора небезопасен и не должен вызывать у вас много паники, если результат неблагоприятный. Вместо этого используйте его как призыв к действию, чтобы наилучшим образом адаптировать свой образ жизни и поведение, чтобы обеспечить наилучшие шансы на сохранение здоровья в будущем.

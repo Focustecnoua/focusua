@@ -1,81 +1,81 @@
 ---
-date: 2021-06-28 03:00:00 +0000
+date: 2021-06-28T03:00:00.000+00:00
 layout: post
-title: Los valles más asombrosos del planeta
-subtitle: Si estas buscando rincones exquisitos del mundo maravillosos, te presentamos
-  los más bonitos e inolvidables que querrás visitar.
-description: Si estas buscando rincones exquisitos del mundo maravillosos, te presentamos
-  los más bonitos e inolvidables que querrás visitar.
+title: Самые удивительные долины на планете
+subtitle: Если вы ищете изысканные уголки мира, мы представляем самые красивые и незабываемые
+  места, которые вам захочется посетить.
+description: Если вы ищете изысканные уголки мира, мы представляем самые красивые
+  и незабываемые места, которые вам захочется посетить.
 image: "/uploads/galeria-valles_0_plujsp.jpg"
 optimized_image: "/uploads/galeria-valles_0_plujsp-1.jpg"
 category: Nuestro Planeta
 tags:
-- fauna y flora
-- montañas
-- Valles
+- долина
+- горы
+- фауна и флора
 author: FocusTecno
 
 ---
-Donde hay grandes montañas, hay valles, constantemente acompañados por los citados paisajes montañosos. Aun cuando frecuentemente permanezcan ocultos por gigantes montañas, los valles acostumbran esconder muchas sorpresas que podríamos calificar como fabulosas, como cascadas, lagos de aguas turquesas, variedad de fauna y flora, maravillas geológicas y sitios pintorescos, cuanto menos. 
+Там, где великие горы, есть долины, постоянно сопровождаемые вышеупомянутыми горными пейзажами. Несмотря на то, что они часто скрыты гигантскими горами, долины, как правило, скрывают множество сюрпризов, которые мы могли бы назвать сказочными, таких как водопады, бирюзовые озера, разнообразие фауны и флоры, геологические чудеса и живописные места, мягко говоря.
 
-Hay ciertos sitios en el planeta que podríamos titular como “los más bellos” o “los más asombrosos”. Pensar sobre el planeta, sobre ti, sobre el silencio, la vida... 
+На планете есть места, которые можно назвать «самыми красивыми» или «самыми удивительными». Думая о планете, о себе, о тишине, жизни ...
 
-Aquí encontrarás una galería de ciertos sitios con asombrosos vistas repartidas a lo ancho y extenso del mundo. Varias de las imágenes se acercan a recrear lo maravillosos que son dichos sitios, empero es mucho mejor que lo veas con tus propios ojos, por lo cual deberías intentar verlos en persona alguna vez de tu vida. 
+Здесь вы найдете галерею некоторых сайтов с потрясающими видами, разбросанными по всему миру. Некоторые из изображений почти воссоздают, насколько прекрасны эти сайты, но гораздо лучше увидеть это собственными глазами, поэтому вам следует попытаться увидеть их лично когда-нибудь в своей жизни.
 
-Con su ámbito natural paradisíaco y sitios sagrados de peregrinación, varios son destinos que inspira el alma: montañas boscosas, valles verdes, gargantas sensacionales, lagos prístinos y cascadas vertiginosas, llanuras salpicadas de animales salvajes... 
+Райская природа и священные места паломничества - вот несколько направлений, которые вдохновляют душу: лесные горы, зеленые долины, сенсационные ущелья, нетронутые озера и головокружительные водопады, равнины, усеянные дикими животными ...
 
-A continuación te presentamos una selección de nuestros propios valles preferidos.
+Вот подборка наших любимых долин.
 
 ![](/uploads/valle-kaghan_l7b9gq.jpg)
 
-## Valle de Kaghan, Pakistán
+## Долина Каган, Пакистан
 
-Con una altura de 2.500 metros es, sin duda, uno de los sitios más salvajes y bonitos de Pakistán. Es bastante exitosa por sus lagos, arroyos y bellas cascadas. En las aguas de este precioso valle, que obtiene mucha lluvia en los veranos y mucha nieve en los inviernos, tenemos la posibilidad de descubrir truchas y mahseers. Un rincón verde repleto de coníferas.
+С высотой 2 500 метров это, несомненно, одно из самых диких и красивых мест в Пакистане. Он довольно успешен своими озерами, ручьями и красивыми водопадами. В водах этой красивой долины, где много дождей летом и много снега зимой, у нас есть возможность увидеть форель и махсеров. Зеленый уголок, полный хвойных деревьев.
 
 ![](/uploads/valle-waipio_b7ddsf.jpg)
 
-## Valle de Waipio, Hawái
+## Долина Вайпио, Гавайи
 
-Localizado en la Isla Enorme de Hawái ha sido una vez la residencia persistente de varios de los primeros Aliʻi hawaianos hasta la era del Monarca ʻumi, hogar de los reyes hawaianos. Con bosques densos y verdes, cascadas que brotan por doquier y una playa de arena negra reluciente, pertenece a los valles más preciosos de todo el mundo. Es una región de difícil ingreso por medio de una empinada cuesta, sin embargo merece la pena.
+Расположенный на Огромном острове Гавайи, он когда-то был постоянной резиденцией нескольких первых гавайских алиев до эры монарха Ауми, где жили гавайские короли. С густыми зелеными лесами, фонтанирующими водопадами и блестящим пляжем с черным песком он принадлежит к самым красивым долинам в мире. Это труднодоступный район из-за крутого склона, но оно того стоит.
 
 ![](/uploads/valle-diez-picos_j5ftib.jpg)
 
-## Valle de los 10 Picos, Canadá
+## Долина 10 вершин, Канада
 
- Designado de esta forma por los 10 picos que rodean al valle situado en el parque nacional Banff, en Alberta, Canadá, no es un rincón que pase inadvertido. Es tan fotogénico, emblemático y pintoresco que puede costarte creer que algo tan hermoso exista en nuestro mundo. Si tienes tiempo, no te olvides de pasar un óptimo rato en el lago Moraine alimentado debido a un glaciar. Este lago es bastante conocido: ¿sabías que es una de las imágenes de vista previa del sistema Android?
+Названный в честь 10 вершин, окружающих долину, расположенную в национальном парке Банф, Альберта, Канада, этот уголок не останется незамеченным. Он настолько фотогеничный, знаковый и живописный, что трудно поверить в то, что в нашем мире существует что-то столь прекрасное. Если у вас есть время, не забудьте отлично провести время на озере Морейн, питаемом ледником. Это озеро довольно хорошо известно: знаете ли вы, что это одно из изображений для предварительного просмотра системы Android?
 
 ![](/uploads/valle-jammu_whjzmk.jpg)
 
-## Valle de Jammu y Cachemira, India
+## Джамму и Кашмирская долина, Индия
 
-Entre los equipos de montañas Karakoram y Pir Panjal, este hermoso valle cuenta con unos 135 kilómetros de extenso y 32 kms de ancho de bellos paisajes y pluralidad étnica. Con un complejo sistema de irrigación, vemos una región salpicaba de cultivos de arroz y cebada junto con montañas y varios santuarios dedicados a la creencia budista.
+Эта красивая долина, расположенная между горными группами Каракорум и Пир-Панджал, составляет около 135 километров в длину и 32 километра в ширину с красивыми ландшафтами и этническим разнообразием. Со сложной ирригационной системой мы видим регион, усеянный посевами риса и ячменя, а также горы и несколько святынь, посвященных буддийской вере.
 
 ![](/uploads/valle-khumbu_gf0dno.jpg)
 
-## Valle de Khumbu, Nepal
+## Долина Кхумбу, Непал
 
-Localizado al nordeste Nepal, donde la montaña más alta de todo el mundo, el cerro Everest, se eleva a a partir del fondo del valle. Este sitio es bastante famosa en documentales y revistas de viajes, además por sus pueblos o el célebre monasterio budista de Tengboche, que ha sido construido en 1923 y que ha pasado por diversos desastres que han obligado a reconstruirlo en diversas situaciones.
+Расположен на северо-востоке Непала, где самая высокая гора в мире, Эверест, поднимается со дна долины. Это место довольно известно в документальных фильмах и туристических журналах, а также своими деревнями или знаменитым буддийским монастырем Тенгбоче, который был построен в 1923 году и который пережил различные бедствия, которые вынудили его восстанавливать в различных ситуациях.
 
 ![](/uploads/valle-yosemite_biydgf.jpg)
 
-## Valle de Yosemite, USA
+## Йосемитская долина, США
 
-Este valle glaciar ubicado en la parte centro-este de California es un lugar salvaguardado a partir de 1864, un año anteriormente del final de la Guerra Civil de Estados Unidos. Exitoso por sus cascadas, varios visitantes descienden al parque para explorar las aguas torrenciales que caen en cascada sobre las piedras. Además tendrás la posibilidad de gozar de exuberantes prados, secuoyas monumentales y una gigantesca riqueza de vida silvestre.
+Эта ледниковая долина, расположенная в восточно-центральной части Калифорнии, является охраняемым местом с 1864 года, за год до окончания гражданской войны в Соединенных Штатах. В парке есть водопады, поэтому несколько посетителей спускаются в парк, чтобы исследовать проливные воды, струящиеся по камням. У вас также будет возможность насладиться пышными лугами, монументальными секвойями и огромным богатством дикой природы.
 
 ![](/uploads/valle-duero_xmbsh8.jpg)
 
-## Valle del Duero, Portugal
+## Долина Дору, Португалия
 
-El Duero es uno de los más importantes ríos de la Península Ibérica, que fluye a partir de su origen en la provincia de Soria por medio del centro-norte española y Portugal hasta su desembocadura en Oporto. Es una región donde si buscas tranquilidad, paz y vistas fantásticas, lo encontrarás. Rememora que el valle del Duero es Patrimonio Mundial de la raza humana y una de las zonas vinícolas más viejas de todo el mundo.
+Дуэро - одна из самых важных рек на Пиренейском полуострове, которая течет от истока в провинции Сория через северо-центральную Испанию и Португалию до устья в Порту. Это регион, где вы найдете его, если ищете спокойствия, умиротворения и фантастических видов. Он напоминает, что долина Дору является объектом Всемирного наследия человечества и одним из старейших винодельческих районов в мире.
 
 ![](/uploads/valle-jiuzhaigou_qmq7hp.jpg)
 
-## Valle de Jiuzhaigou, China
+## Долина Цзючжайгоу, Китай
 
-Localizado en la provincia de Sichuan en China, el valle de Jiuzhaigou se alarga durante 720 kilómetros cuadrados. Además de los valles, los picos nevados y muchas cascadas, el primordial llamativo del valle lo representan sus coloridos lagos. Mención particular merece el “lago de las 5 flores”, un cuerpo humano de agua de color cian brillante que fluye sobre varios troncos de árboles caídos.
+Долина Цзючжайгоу, расположенная в провинции Сычуань в Китае, простирается на 720 квадратных километров. Помимо долин, снежных вершин и множества водопадов, главной достопримечательностью долины являются красочные озера. Особо следует упомянуть «Озеро пяти цветов» - человеческое тело из ярко-голубой воды, которое течет по стволам нескольких упавших деревьев.
 
 ![](/uploads/valle-lotschental_dygpou.jpg)
 
-## Valle Lötschental, Suiza
+## Долина Лёченталь, Швейцария
 
-Este valle está en los Alpes suizos. Pertenece a los valles mayores de esta nación, y este majestuoso sitio es conocido por el flujo de agua Lonza y por el curioso carnaval de Tschäggättä. El valle se prolonga unos 27 kilómetros, rodeado por montañas de 3.000 metros de elevación. Además ha sido proclamado Patrimonio de la raza humana Natural por la Organización de las Naciones Unidas para la Educación, Ciencia y Cultura en 2001.
+Эта долина находится в Швейцарских Альпах. Он принадлежит к основным долинам этой страны, и это величественное место известно потоком воды Лонца и любопытным карнавалом Чаггеття. Долина протянулась примерно на 27 километров, окруженная горами высотой 3000 метров. Он также был провозглашен Организацией Объединенных Наций по вопросам образования, науки и культуры в 2001 году естественным наследием человеческой расы.

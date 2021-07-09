@@ -1,32 +1,32 @@
 ---
-date: 2021-06-26 03:00:00 +0000
+date: 2021-06-26T03:00:00.000+00:00
 layout: post
-title: TCL lanza una pantalla de teléfono inteligente portátil estilo gafas
-subtitle: Así son las TCL NxtWear G, gafas que transforman tu teléfono o tablet en
-  una pantalla de 140 pulgadas
-description: Así son las TCL NxtWear G, gafas que transforman tu teléfono o tablet
-  en una pantalla de 140 pulgadas
+title: TCL запускает носимый экран смартфона в очках
+subtitle: Таковы очки TCL NxtWear G, которые превращают ваш телефон или планшет в
+  140-дюймовый экран.
+description: Таковы очки TCL NxtWear G, которые превращают ваш телефон или планшет
+  в 140-дюймовый экран.
 image: "/uploads/tcl_lanza_una_pantalla_de_telefono_inteligente_portatil_estilo_gafas_kqxyso.webp"
 optimized_image: "/uploads/tcl_lanza_una_pantalla_de_telefono_inteligente_portatil_estilo_gafas_kqxyso-1.webp"
 category: Smartphone
 tags:
-- Gafas
 - TCL
 - TCL NxtWear G
+- 'очки '
 author: FocusTecno
 
 ---
-**TCL** ha anunciado que su pantalla portátil **NxtWear G**, que se demostró por primera ocasión en el CES de este año, ya está lista para salir al mercado. **El dispositivo saldrá a la comercialización en julio** y al inicio va a estar disponible en Australia por casi **$680,** y después aparecerá en otros territorios.
+TCL объявила, что ее портативный дисплей NxtWear G, который был впервые продемонстрирован на выставке CES в этом году, теперь готов к работе. Устройство поступит в продажу в июле и первоначально будет доступно в Австралии по цене почти 680 долларов, а затем появится на других территориях.
 
-**TCL** apunta que **NxtWear G** no es un dispositivo de realidad virtual o aumentada en su configuración actual. La novedad es que actúa como una pantalla externa para un dispositivo móvil o portátil. Está equipado con **2 paneles Micro OLED de 1080p**, que inventan el impacto de ver una pantalla de **140 pulgadas.**
+TCL отмечает, что NxtWear G не является устройством виртуальной или дополненной реальности в его текущей конфигурации. Новинка в том, что он выступает в роли внешнего экрана мобильного или портативного устройства. Он оснащен 2 панелями Micro OLED с разрешением 1080p, которые создают шок от просмотра на 140-дюймовом экране.
 
-Los dispositivos funcionan con teléfonos, tabletas y pcs portátiles que dan la función de conectar pantallas externas por medio de la interfaz **USB-C DisplayPort**. Los anteojos se conectan de manera directa al dispositivo del cliente, mostrando el contenido en la pantalla justo ante sus ojos. Los altavoces estéreo permanecen incluidos en el marco (aunque TCL propone la utilización de auriculares inalámbricos o auriculares). Toda la composición junto con el cable pesa 130 gramos.
+Устройства работают с телефонами, планшетами и ноутбуками, которые обеспечивают функцию подключения внешних дисплеев через интерфейс USB-C DisplayPort. Очки подключаются напрямую к устройству покупателя, отображая контент на экране прямо у него на глазах. Стереодинамики остаются включенными в рамку (хотя TCL предлагает использовать беспроводные наушники или наушники). Вся композиция вместе с кабелем весит 130 грамм.
 
-Las características de estas novedosas **TCL NxtWear G** no quedan allí, son capaces de proyectar contenidos tanto bidimensionales como tridimensionales, de esta forma que vamos a poder emplearlas como si fuesen unas gafas 3D. Además tendremos la posibilidad de colocarles lentes correctoras si las requerimos además de aguantes para la nariz y cristales protectores. Los anteojos ofrecen un ángulo de perspectiva de 47º, de hecho, y una frecuencia de refresco de 60Hz.
+Характеристики этих новых TCL NxtWear G не ограничиваются этим, они способны проецировать как двухмерный, так и трехмерный контент, таким образом, мы сможем использовать их, как если бы они были 3D-очками. У нас также будет возможность установить корректирующие линзы, если они нам понадобятся, в дополнение к носовым упорам и защитным очкам. Фактически, очки предлагают угол обзора 47º и частоту обновления 60 Гц.
 
 ![](/uploads/tcl_lanza_una_pantalla_de_telefono_inteligente_portatil_estilo_gafasa_a6sip5.webp)
 
-## Modelos de teléfono compatibles con las TCL NxtWear G
+## Модели телефонов, совместимые с TCL NxtWear G
 
 ### Huawei
 

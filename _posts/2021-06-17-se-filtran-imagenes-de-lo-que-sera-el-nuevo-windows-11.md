@@ -1,41 +1,39 @@
 ---
-date: 2021-06-17 03:00:00 +0000
+date: 2021-06-17T03:00:00.000+00:00
 layout: post
-title: Se filtran imágenes de lo que será el nuevo Windows 11
-subtitle: Se han filtrado las primeras imágenes del nuevo Windows 11 que Microsoft
-  está por lanzar
-description: Se han filtrado las primeras imágenes del nuevo Windows 11 que Microsoft
-  está por lanzar
+title: Просочились изображения того, какой будет новая Windows 11
+subtitle: Просочились первые изображения новой Windows 11, которую Microsoft собирается
+  выпустить.
+description: Просочились первые изображения новой Windows 11, которую Microsoft собирается
+  выпустить.
 image: "/uploads/se_filtran_imagenes_de_lo_que_sera_el_nuevo_windows_11_rnnvdp.jpg"
 optimized_image: "/uploads/se_filtran_imagenes_de_lo_que_sera_el_nuevo_windows_11_rnnvdp-1.jpg"
 category: Windows
 tags:
-- Filtrado
 - 'Microsoft '
 - Windows 11
 author: FocusTecno
 
 ---
+Было сказано, что Windows 10 будет окончательной версией Microsoft для ПК с двумя ежегодными обновлениями, но теперь, шесть лет спустя, выходит Windows 11.
 
-Se decía que **Windows 10** sería la versión definitiva de **Microsoft** para pc con 2 actualizaciones anuales pero ahora, seis años después, llega **Windows 11**.
+Как и планировалось, 24 июня Microsoft представит новую Windows 11, и не только образы, но и внутренняя сборка уже отфильтрованы, что показывает, какой будет новая версия операционной системы.
 
-Según lo previsto, **el próximo 24 de junio**, **Microsoft** presentará el nuevo **Windows 11** y ya se han **filtrado** no solo imágenes sino una Build interna que deja ver lo que será la nueva versión del **Sistema Operativo**.
+## Видны небольшие визуальные изменения
 
-## Se pueden apreciar pequeños cambios visuales
+* Внешний вид MacOS с центрированными значками панели задач.
+* Новый логотип для Windows, четыре прямоугольника равного размера вместо трапеции, которую Microsoft использовала для Windows с момента выпуска Windows 8 в 2012 году.
+* Все значки будут иметь новый дизайн с большим количеством цветов и трехмерным внешним видом.
+* Windows 11 будет иметь закругленные углы.
+* Новые более изысканные обои.
+* В меню «Пуск» не отображаются живые плитки для закрепленных приложений.
 
-* Un aspecto más **MacOs**, con los iconos de la barra de tareas centrados.
-* **Nuevo logotipo** para Windows, cuatro rectángulos de igual tamaño en lugar del trapezoide que Microsoft ha utilizado para Windows desde el lanzamiento de Windows 8 en 2012.
-* Todos los **iconos** presentarán un nuevo diseño con más color y **apariencia 3d**.
-* **Windows 11** tendrá esquinas redondeadas.
-* **Nuevos fondos de pantalla** más sofisticados.
-* El menú de inicio deja de lado los mosaicos en vivo para las **aplicaciones ancladas.**
+Это почти все. Ожидается, что Windows 11 также принесет обновление для Microsoft Store, но этого не видно в утечке сборки.
 
-Esto es prácticamente todo. También se espera que **Windows 11** traiga una **actualización para Microsoft Store,** pero esto no se ve en la Build Filtrada.
+## Почему Microsoft нарушает свое обещание и выпускает Windows 11?
 
-## ¿Por qué Microsoft rompe con su promesa y lanza Windows 11?
+Windows 10 была создана, когда на рынке доминировали смартфоны, а компьютер оставался исключительно средством производительности и работы.
 
-Windows 10, se crea cuando **los Smartphones dominaban el mercado** dejando a la pc exclusivamente como medio para la productividad y trabajo.
+Теперь, с появлением Covid-19, люди проводят больше времени за своими компьютерами, и это снова модные продукты, в ответ на это Windows 11.
 
-Ahora con la llegada del **Covid-19**, las personas pasan más tiempo en sus pc y estas vuelven a ser productos de moda, en respuesta, **Windows 11**.
-
-Ahora tenemos que esperar hasta que Microsoft presente oficialmente Windows 11. Tal vez haya **algo mágico** que no podemos ver en las filtraciones.
+Теперь нам нужно подождать, пока Microsoft официально представит Windows 11. Может быть, есть что-то волшебное, чего мы не видим в утечках.
